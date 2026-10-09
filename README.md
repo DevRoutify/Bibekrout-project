@@ -1,4 +1,4 @@
 # Bibekrout-project
 This is my GitHub account 
 <br>
-author:bibek rout (project)
+author: bibek rout (project)
